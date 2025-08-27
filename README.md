@@ -1,3 +1,22 @@
+# Nature Explorer App 🌿  
+A React Native app to detect extinct species of nature.  
+This project is built using **React Native CLI** and currently supports **Android only**.  
+There is a total 37 screens in the project below is the representation of screens.
+---
+
+## 📸 App Design Preview  
+
+| Home Screen | Species List | Detection Screen |
+|-------------|-------------|------------------|
+| ![Home](assets/images/1.png) | ![Species List](assets/images/2.png) | ![Detection](assets/images/3.png) |
+
+| Details Screen | Profile Screen |
+|----------------|----------------|
+| ![Details](assets/images/4.png) | ![Profile](assets/images/5.png) |
+
+---
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
