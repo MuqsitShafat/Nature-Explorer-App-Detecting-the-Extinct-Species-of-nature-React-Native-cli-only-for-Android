@@ -1,0 +1,81 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Lexend-Bold.ttf",
+      "sha1": "df3c3feab8ac51ab6f8d6a01f3b3a0e19dc88d03"
+    },
+    {
+      "path": "assets/fonts/Lexend-Medium.ttf",
+      "sha1": "d607ea1e392b925d5229569cd3a8c9bdfcac1eaf"
+    },
+    {
+      "path": "assets/fonts/Lexend-Regular.ttf",
+      "sha1": "dd3cee6e434d8debb7699473bd61918cfb54798d"
+    },
+    {
+      "path": "assets/fonts/Manrope-Bold.ttf",
+      "sha1": "dbc0b874ad8b9f3415d0e9b4e22907890ca72327"
+    },
+    {
+      "path": "assets/fonts/Manrope-Medium.ttf",
+      "sha1": "b5e2c6265e0919163142bb8eac9b6450fb91f920"
+    },
+    {
+      "path": "assets/fonts/Manrope-Regular.ttf",
+      "sha1": "3f36e4904a42d23273ac346047c1b6bcf067ccfc"
+    },
+    {
+      "path": "assets/fonts/Newsreader_14pt-Bold.ttf",
+      "sha1": "7d3477547c1fc1c7cb036422dada0fb533d6ce59"
+    },
+    {
+      "path": "assets/fonts/Newsreader_14pt-Medium.ttf",
+      "sha1": "4112d192a551b5385ed19e1c48cd1cbbd03db2b9"
+    },
+    {
+      "path": "assets/fonts/Newsreader_14pt-Regular.ttf",
+      "sha1": "b5af2222aba28b2061dc0a5684d1d878f67da289"
+    },
+    {
+      "path": "assets/fonts/NotoSerif-Bold.ttf",
+      "sha1": "01172ee03ac167cd3e7b7549e5dab5500b5b3755"
+    },
+    {
+      "path": "assets/fonts/NotoSerif-Medium.ttf",
+      "sha1": "347e3a9c2da0df729e620c9f836238705c6beec3"
+    },
+    {
+      "path": "assets/fonts/NotoSerif-Regular.ttf",
+      "sha1": "2deb96461c7d99a7697ab77ecc3952d7359abfb7"
+    },
+    {
+      "path": "assets/fonts/PlusJakartaSans-Bold.ttf",
+      "sha1": "c341f3c4296794a16072abf4f733c9a0e52b1ce6"
+    },
+    {
+      "path": "assets/fonts/PlusJakartaSans-Medium.ttf",
+      "sha1": "58bf45e98e2f8b096736ffbd0052f45757135ede"
+    },
+    {
+      "path": "assets/fonts/PlusJakartaSans-Regular.ttf",
+      "sha1": "0fec0d4768d5552759d8e9f7f3bc558ba0c2ed49"
+    },
+    {
+      "path": "assets/fonts/PlusJakartaSans-SemiBold.ttf",
+      "sha1": "0143b34e6d22d8aa927cff19019f6b3e01087103"
+    },
+    {
+      "path": "assets/fonts/SpaceGrotesk-Bold.ttf",
+      "sha1": "14f3d7d974d0232f0fba31566783b2c262b4d2a2"
+    },
+    {
+      "path": "assets/fonts/SpaceGrotesk-Medium.ttf",
+      "sha1": "7d2fe2b9e0c9e76ab5bebf7cd766acd1d5c4dcbb"
+    },
+    {
+      "path": "assets/fonts/SpaceGrotesk-Regular.ttf",
+      "sha1": "23aaf86d93b2c94ebf6fd588f0bc5f62194889f6"
+    }
+  ]
+}
