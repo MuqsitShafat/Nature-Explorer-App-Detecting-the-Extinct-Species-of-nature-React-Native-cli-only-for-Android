@@ -49,6 +49,9 @@ local.properties
 .kotlin/
 captures/
 
+# Android Manifest
+**/AndroidManifest.xml
+
 # Android artifacts
 *.apk
 *.ap_  # Android package intermediary
